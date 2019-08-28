@@ -15,7 +15,7 @@ class Person
         @happiness = 8
         @hygiene = 8
     end
-
+#
 
      def happiness=(num)
         if num > 10
